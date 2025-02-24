@@ -34,8 +34,6 @@ git clone https://github.com/your-username/your-repo-name.git
 # Usage
 To use this project, open the index.html file in your web browser. You can also deploy it to a web server to make it accessible online.
 
-# Screenshots
-<a href="/assets/screenshot.PNG"></a>
 # Contributing
 Contributions are welcome! Please follow these steps to contribute:
 <ol>
@@ -49,5 +47,4 @@ Contributions are welcome! Please follow these steps to contribute:
 This project is licensed under the MIT License. See the<a href=""> LICENSE</a> file for details.
 # Contact
 sylviahmaina6@gmail.com<br>
-Project Link:https://github.com/SilviaMaina/week1-project.git
-
+Project Link:https://github.com/SilviaMaina/recipe-book.git
